@@ -1,6 +1,3 @@
-# cv-awi-jae
-Website CV Profesional Awi Akbar Jaelani
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
